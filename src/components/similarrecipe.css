@@ -1,0 +1,23 @@
+.similar_recipe_container{
+    margin-top: 3rem;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.similar_recipe{
+    margin-top: 2rem;
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+}
+.similar_recipe h2{
+    font-size: 2rem;
+    color: #FF8400;
+}
+.similar_recipe_container p{
+    font-size: 2rem;
+    color: #FC2947;
+    font-weight: 900;
+    /* height: 90vh; */
+}
