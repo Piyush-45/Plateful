@@ -1,5 +1,5 @@
 import React from "react";
-import logo2 from "../images/logo2.png";
+// import logo2 from "../images/logo2.png";
 import { BsSearch } from "react-icons/bs";
 import Search from "./Search";
 import { Link, useNavigate } from "react-router-dom";
